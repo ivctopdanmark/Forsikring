@@ -1,2 +1,3 @@
 Hej med dig.
 Det er min TEST GIT.
+Det er min TEST GIT2.
